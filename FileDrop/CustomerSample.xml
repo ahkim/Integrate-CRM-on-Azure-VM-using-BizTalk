@@ -1,0 +1,12 @@
+<ns0:Customer xmlns:ns0="http://AKLabCRM/service">
+  <ns0:EmailAddress>ahkim@ahkim.com</ns0:EmailAddress>
+  <ns0:FirstName>Aaron</ns0:FirstName>
+  <ns0:LastName>Kim</ns0:LastName>
+  <ns0:MiddleName></ns0:MiddleName>
+  <ns0:NamePrefix></ns0:NamePrefix>
+  <ns0:PhoneNumber></ns0:PhoneNumber>
+  <ns0:PrimaryAddressCity></ns0:PrimaryAddressCity>
+  <ns0:PrimaryAddressPostalCode></ns0:PrimaryAddressPostalCode>
+  <ns0:PrimaryAddressState></ns0:PrimaryAddressState>
+  <ns0:PrimaryAddressStreet></ns0:PrimaryAddressStreet>
+</ns0:Customer>
